@@ -1,0 +1,55 @@
+sample_id	Study	cancer_type	clinical_stage	histo_group	days_between_diagnosis_and_blood_draw	race	age	sex	smoking_status
+ID1	LOD	head_and_neck	IV	squamous_cell_carcinoma	32	Hispanic	63	Male	Former smoker
+ID2	LOD	lung	III	nsclc_adeno	22	White, non-Hispanic	70	Male	Former smoker
+ID3	LOD	lymphoid_neoplasm	IV	mature_b_cell_neoplasms	7	White, non-Hispanic	72	Female	Non-smoker
+ID4	LOD	breast	IV	Other/missing	14	White, non-Hispanic	57	Female	Current smoker
+ID5	LOD	lung	III	nsclc_squamous	35	White, non-Hispanic	61	Male	Former smoker
+ID6	LOD	colorectal	IV	adenocarcinoma	6	White, non-Hispanic	57	Female	Non-smoker
+ID7	LOD_EARLY	Colorectal	I	adenocarcinoma	13	White, non-Hispanic	55	Female	Former smoker
+ID8	LOD_EARLY	Pancreas Gallbladder	II	carcinoma	14	White, non-Hispanic	50	Male	Current smoker
+ID9	LOD_EARLY	Head and Neck	II	squamous_cell_carcinoma	45	Hispanic	44	Male	Non-smoker
+ID10	LOD_EARLY	Upper GI	II	adenocarcinoma	24	White, non-Hispanic	50	Male	Current smoker
+ID11	LOD_EARLY	Lung	II	nsclc_carcinoma	8	White, non-Hispanic	70	Male	Former smoker
+ID12	LOD_EARLY	Lung	I	sclc	22	Black, non-Hispanic	67	Female	Former smoker
+ID13	LOD_EARLY	Head and Neck	I	squamous_cell_carcinoma	40	Hispanic	61	Male	Current smoker
+ID14	IT	multiple_myeloma	Non-informative	plasma_cell_tumor	0	White, non-Hispanic	71	Male	Former smoker
+ID15	IT	lymphoid_neoplasm	Non-informative	b_lymphoblastic	0	White, non-Hispanic	33	Male	Former smoker
+ID16	IT	lung	III	malignant_neoplasm	6	White, non-Hispanic	72	Female	Former smoker
+ID17	IT	colorectal	IV	adenocarcinoma	8	White, non-Hispanic	53	Female	Former smoker
+ID18	IT	upper_gi	IV	neuroendocrine	22	White, non-Hispanic	58	Male	Non-smoker
+ID19	IT	renal	IV	renal_cell_carcinoma	-5	White, non-Hispanic	58	Female	Former smoker
+ID20	RR1	head_and_neck	II	squamous_cell_carcinoma	20	White, non-Hispanic	56	Male	Former smoker
+ID21	RR1	upper_gi	II	adenocarcinoma	32	White, non-Hispanic	65	Female	Former smoker
+ID22	RR1	lymphoid_neoplasm	III	mature_b_cell_neoplasms	0	White, non-Hispanic	73	Male	Former smoker
+ID23	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	56	Female	Non-smoker
+ID24	RR1	lung	III	sclc	7	White, non-Hispanic	78	Female	Former smoker
+ID25	RR1	upper_gi	III	adenocarcinoma	19	White, non-Hispanic	69	Female	Non-smoker
+ID26	RR1	lymphoid_neoplasm	II	mature_b_cell_neoplasms	50	White, non-Hispanic	74	Male	Former smoker
+ID27	RR1	lung	III	sclc	69	White, non-Hispanic	65	Female	Current smoker
+ID28	RR1	pancreas_gallbladder	II	adenocarcinoma	12	White, non-Hispanic	69	Female	Non-smoker
+ID29	RR1	pancreas_gallbladder	II	adenocarcinoma	13	White, non-Hispanic	69	Male	Non-smoker
+ID30	RR1	head_and_neck	II	squamous_cell_carcinoma	37	White, non-Hispanic	65	Male	Former smoker
+ID31	RR1	colorectal	III	adenocarcinoma	7	White, non-Hispanic	56	Male	Current smoker
+ID32	RR1	anorectal	I	squamous_cell_carcinoma	27	White, non-Hispanic	64	Female	Former smoker
+ID33	RR1	breast	II	adenocarcinoma	40	White, non-Hispanic	42	Female	Former smoker
+ID34	RR1	liver_bileduct	III	hepatocellular carcinoma	57	White, non-Hispanic	61	Male	Non-smoker
+ID35	RR1	non_cancer	Non-informative	non_cancer	NA	Hispanic	32	Male	Former smoker
+ID36	RR1	multiple_myeloma	III	plasma_cell_tumor	15	White, non-Hispanic	74	Male	Former smoker
+ID37	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	51	Female	Non-smoker
+ID38	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	67	Female	Non-smoker
+ID39	RR1	multiple_myeloma	III	plasma_cell_tumor	16	White, non-Hispanic	52	Male	Non-smoker
+ID40	RR1	non_cancer	Non-informative	non_cancer	NA	Black, non-Hispanic	23	Female	Non-smoker
+ID41	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	44	Female	Non-smoker
+ID42	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	61	Female	Former smoker
+ID43	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	38	Female	Non-smoker
+ID44	RR1	breast	II	adenocarcinoma	8	White, non-Hispanic	55	Female	Non-smoker
+ID45	RR1	non_cancer	Non-informative	non_cancer	NA	Hispanic	42	Female	Former smoker
+ID46	RR1	ovary	III	adenocarcinoma	15	White, non-Hispanic	57	Female	Other/missing
+ID47	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	71	Female	Current smoker
+ID48	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	41	Female	Non-smoker
+ID49	RR1	ovary	III	adenocarcinoma,carcinoma	22	Black, non-Hispanic	73	Female	Non-smoker
+ID50	RR1	liver_bileduct	II	hepatocellular carcinoma	10	Black, non-Hispanic	63	Male	Former smoker
+ID51	RR1	non_cancer	Non-informative	non_cancer	NA	Black, non-Hispanic	39	Female	Non-smoker
+ID52	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	50	Female	Non-smoker
+ID53	RR1	non_cancer	Non-informative	non_cancer	NA	White, non-Hispanic	60	Female	Current smoker
+ID54	RR1	non_cancer	Non-informative	non_cancer	NA	Hispanic	29	Female	Current smoker

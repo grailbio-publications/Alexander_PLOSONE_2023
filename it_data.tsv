@@ -1,0 +1,246 @@
+sample_id	analysis_sample_id	SampleID	input_amount_ng	input_amount_label	cancer_type_expected	cancer_type_clean	cancer_shape	cancer_is_expected	cancer_is_detected	cancer_detection_is_correct	cancer_type_predicted	cancer_type_prediction_is_correct	sex_match_is_correct	analysis_on_binary_target_coverage_stats_mean	analysis_abnormal_coverage_cpg_mean	binary_classification_score
+ID14	samp_163	C4	40	040ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	171.3817	1.80308	0.999584460373314
+ID14	samp_176	C4	3	003ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	11.0381	0.1264225	0.9969300508432068
+ID14	samp_167	C4	3	003ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	21.283	0.2140657	0.9973818501438348
+ID14	samp_179	C4	3	003ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	14.9312	0.1519223	0.9973641633564462
+ID14	samp_165	C4	10	010ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	35.4396	0.3371248	0.9976472331397984
+ID14	samp_162	C4	75	075ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	212.6468	2.737611	0.9996025365348092
+ID14	samp_166	C4	5	005ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	22.8419	0.2490995	0.9976453123855342
+ID14	samp_168	C4	100	100ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	249.8047	3.331057	0.9996330557982392
+ID14	samp_161	C4	100	100ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	241.4041	3.158387	0.9996514042718332
+ID14	samp_173	C4	5	005ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	27.2903	0.2826294	0.9980850695665728
+ID14	samp_178	C4	3	003ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	15.8968	0.1699578	0.9974797054523652
+ID14	samp_177	C4	3	003ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	38.7983	0.3527328	0.9984303774225844
+ID14	samp_174	C4	3	003ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	13.7953	0.1506914	0.997386113712285
+ID14	samp_164	C4	20	020ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	100.7839	0.9732896	0.9993544583666344
+ID14	samp_172	C4	10	010ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	51.2757	0.5024062	0.9992094452880836
+ID14	samp_171	C4	20	020ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	131.8917	1.298245	0.9994513621312228
+ID14	samp_170	C4	40	040ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	165.8577	1.868668	0.9995667684589556
+ID14	samp_169	C4	75	075ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	216.5363	2.90471	0.999667757157962
+ID14	samp_175	C4	100	100ng	multiple_myeloma	Multiple Myeloma	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	multiple_myeloma	TRUE	TRUE	238.7342	3.453385	0.9996688195035932
+ID19	samp_230	C6	20	020ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	95.6525	1.119326	0.9999999355479507
+ID19	samp_237	C6	40	040ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	199.4885	3.257369	0.9999999983886456
+ID19	samp_231	C6	10	010ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	108.0047	1.274613	0.9999999472285022
+ID19	samp_235	C6	100	100ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	260.0459	4.875316	0.9999999989277272
+ID19	samp_232	C6	5	005ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	46.5456	0.5625753	0.999999041590138
+ID19	samp_239	C6	10	010ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	54.8276	0.6629539	0.9999998825469072
+ID19	samp_245	C6	3	003ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	30.1976	0.3990372	0.9999949500475096
+ID19	samp_229	C6	40	040ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	208.0577	3.080639	0.999999997687991
+ID19	samp_242	C6	3	003ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	34.7674	0.37834	0.999997105070125
+ID19	samp_234	C6	3	003ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	16.3305	0.2336256	0.9998576549718226
+ID19	samp_228	C6	75	075ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	258.5783	4.796086	0.9999999989921984
+ID19	samp_227	C6	100	100ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	239.0493	4.865375	0.9999999989610852
+ID19	samp_241	C6	3	003ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	21.5908	0.2791778	0.9999779996682489
+ID19	samp_238	C6	20	020ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	174.1677	2.238246	0.9999999969200236
+ID19	samp_233	C6	3	003ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	39.5491	0.457639	0.9999968217859088
+ID19	samp_243	C6	100	100ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	275.7023	5.572543	0.999999999537028
+ID19	samp_236	C6	75	075ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	261.5767	5.186593	0.9999999986639704
+ID19	samp_240	C6	5	005ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	55.4544	0.6288076	0.9999995447974098
+ID19	samp_244	C6	3	003ng	renal	Renal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	renal	TRUE	TRUE	34.1572	0.4485368	0.9999966996224728
+ID17	samp_23	C1	3	003ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	31.9038	5.156478	0.9999964943628102
+ID17	samp_17	C1	100	100ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	169.728	59.38444	0.9999994626619646
+ID17	samp_4	C1	20	020ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	117.6503	22.66392	0.9999980158208224
+ID17	samp_11	C1	40	040ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	180.2281	47.51702	0.999999648262474
+ID17	samp_22	C1	5	005ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	65.7335	11.43313	0.9999983380865174
+ID17	samp_21	C1	10	010ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	66.697	10.60671	0.9999977031840596
+ID17	samp_41	C1	100	100ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	214.9994	66.31484	0.9999990407850612
+ID17	samp_29	C1	10	010ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	90.7258	15.55781	0.9999976907447402
+ID17	samp_1	C1	100	100ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	217.007	76.14667	0.9999993651916522
+ID17	samp_25	C1	100	100ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	232.3016	75.67941	0.9999990256625826
+ID17	samp_15	C1	3	003ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	60.8341	9.172461	0.9999985961694836
+ID17	samp_5	C1	10	010ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	74.3497	12.62948	0.9999990003721904
+ID17	samp_37	C1	10	010ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	81.5591	14.65016	0.9999981625146352
+ID17	samp_31	C1	3	003ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	45.2165	6.727307	0.9999971188343982
+ID17	samp_38	C1	5	005ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	72.6017	12.21297	0.999998260490367
+ID17	samp_36	C1	20	020ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	189.1442	46.05519	0.999999453526599
+ID17	samp_44	C1	20	020ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	148.7618	32.92357	0.9999985523175828
+ID17	samp_39	C1	3	003ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	48.7851	7.817061	0.999997615403842
+ID17	samp_34	C1	75	075ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	195.1203	54.78686	0.9999992073174946
+ID17	samp_9	C1	100	100ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	217.4628	65.28274	0.999999276321651
+ID17	samp_47	C1	3	003ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	81.1764	13.05027	0.999996369734203
+ID17	samp_46	C1	5	005ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	104.2591	18.41968	0.9999994694513312
+ID17	samp_45	C1	10	010ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	124.9228	23.13017	0.9999986620551984
+ID17	samp_7	C1	3	003ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	60.186	8.594268	0.9999976730455404
+ID17	samp_6	C1	5	005ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	87.6513	14.11947	0.9999980724719016
+ID17	samp_10	C1	75	075ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	234.0716	70.92964	0.9999991613459024
+ID17	samp_33	C1	100	100ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	212.8468	70.08335	0.9999995816504051
+ID17	samp_12	C1	20	020ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	173.5288	35.39798	0.9999991979210928
+ID17	samp_3	C1	40	040ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	151.894	35.37856	0.9999992101637796
+ID17	samp_2	C1	75	075ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	208.1713	59.67752	0.9999989283751988
+ID17	samp_30	C1	5	005ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	90.6431	15.65638	0.99999813194965
+ID17	samp_27	C1	40	040ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	212.1651	58.37926	0.9999994482066628
+ID17	samp_43	C1	40	040ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	190.6263	54.05702	0.999999027507934
+ID17	samp_20	C1	20	020ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	163.5826	38.16284	0.9999991671987664
+ID17	samp_14	C1	5	005ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	59.1061	9.527568	0.9999942782117064
+ID17	samp_35	C1	40	040ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	199.4506	55.62103	0.9999991992082516
+ID17	samp_18	C1	75	075ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	224.9043	67.83941	0.999998226494474
+ID17	samp_13	C1	10	010ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	103.5899	18.4517	0.9999988364784986
+ID17	samp_28	C1	20	020ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	159.5613	38.67749	0.9999988387778268
+ID17	samp_26	C1	75	075ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	203.7145	79.97452	0.9999991399053624
+ID17	samp_42	C1	75	075ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	236.0468	70.838	0.9999994316318614
+ID17	samp_19	C1	40	040ng	colorectal	Colorectal	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	colorectal	TRUE	TRUE	202.9412	48.76091	0.9999991893953294
+ID15	samp_140	C3	20	020ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	234.7124	2.326401	0.9750266860215226
+ID15	samp_149	C3	10	010ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	150.0923	1.32909	0.9892841557448506
+ID15	samp_109	C3	10	010ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	128.3746	1.082667	0.8886742501676516
+ID15	samp_117	C3	10	010ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	138.9328	1.228022	0.9873841533656008
+ID15	samp_135	C3	3	003ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	64.8168	0.5266106	0.9884217579120478
+ID15	samp_127	C3	3	003ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	33.6211	0.2846295	0.984927267626732
+ID15	samp_132	C3	20	020ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	207.7255	1.937602	0.987398817984747
+ID15	samp_139	C3	40	040ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	250.3702	2.747759	0.9929402139801986
+ID15	samp_126	C3	5	005ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	87.5094	0.7544102	0.9925639055857782
+ID15	samp_122	C3	75	075ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	305.2364	3.630897	0.9973372060510284
+ID15	samp_121	C3	100	100ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	230.128	3.326851	0.9972714717910444
+ID15	samp_142	C3	5	005ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	89.6544	0.7234368	0.994044486110662
+ID15	samp_146	C3	75	075ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	258.4483	3.192483	0.9966904152756126
+ID15	samp_147	C3	40	040ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	213.5456	2.607209	0.994304432833241
+ID15	samp_134	C3	5	005ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	96.0864	0.8228878	0.9604776265890068
+ID15	samp_124	C3	20	020ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	192.5295	1.833904	0.9943115164779824
+ID15	samp_151	C3	3	003ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	43.0827	0.3407714	0.9690129222726526
+ID15	samp_116	C3	20	020ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	247.117	2.303315	0.992712190906444
+ID15	samp_105	C3	100	100ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	257.2273	3.166197	0.9962341084920796
+ID15	samp_129	C3	100	100ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	238.3537	3.143212	0.9937638110070772
+ID15	samp_131	C3	40	040ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	229.5319	2.613648	0.9926415388830389
+ID15	samp_110	C3	5	005ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	91.8576	0.7566669	0.98828196103056
+ID15	samp_114	C3	75	075ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	259.7767	3.469598	0.9973460550370112
+ID15	samp_118	C3	5	005ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	122.4217	0.9324833	0.9452320161862672
+ID15	samp_150	C3	5	005ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	104.9084	0.845543	0.9857502888842724
+ID15	samp_119	C3	3	003ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	42.613	0.3310245	0.9842673424057298
+ID15	samp_108	C3	20	020ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	203.8751	1.826452	0.9930764643187086
+ID15	samp_111	C3	3	003ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	28.8801	0.2541033	0.9906778660719072
+ID15	samp_137	C3	100	100ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	187.1756	3.01867	0.9967182861004952
+ID15	samp_133	C3	10	010ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	141.1936	1.229045	0.9637244022702413
+ID15	samp_138	C3	75	075ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	281.2847	3.459954	0.9926888778911284
+ID15	samp_107	C3	40	040ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	219.9272	2.4095	0.992622416792142
+ID15	samp_130	C3	75	075ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	247.1442	3.059093	0.99679963739471
+ID15	samp_145	C3	100	100ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	309.288	3.904781	0.9970030252311376
+ID15	samp_148	C3	20	020ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	235.9295	2.200733	0.9963436283951204
+ID15	samp_113	C3	100	100ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	256.5427	3.23087	0.9962795040957064
+ID15	samp_115	C3	40	040ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	212.2657	2.300864	0.9940450920169934
+ID15	samp_106	C3	75	075ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	246.5323	3.122694	0.9925566287961284
+ID15	samp_143	C3	3	003ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	88.3971	0.6903139	0.9942065582431604
+ID15	samp_141	C3	10	010ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	94.8975	0.8268781	0.9916674651215136
+ID15	samp_125	C3	10	010ng	lymphoid_neoplasm	Lymphoid Neoplasm	No Cancer Signal Detected	TRUE	No Cancer Signal Detected	FALSE	non_cancer	FALSE	TRUE	171.9209	1.467543	0.9807400424411574
+ID15	samp_123	C3	40	040ng	lymphoid_neoplasm	Lymphoid Neoplasm	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lymphoid_neoplasm	TRUE	TRUE	243.7312	2.520342	0.9960477961372148
+ID18	samp_190	C5	20	020ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	79.2161	17.19294	0.9999999988788928
+ID18	samp_181	C5	75	075ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	97.8939	26.98256	0.9999999994797322
+ID18	samp_180	C5	100	100ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	105.5013	30.67034	0.9999999992013212
+ID18	samp_194	C5	100	100ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	97.7037	32.76325	0.9999999996456376
+ID18	samp_182	C5	40	040ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	95.1921	21.2819	0.9999999995055356
+ID18	samp_192	C5	5	005ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	25.1109	4.329453	0.9999999824586548
+ID18	samp_186	C5	3	003ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	25.8019	4.787905	0.9999999620729886
+ID18	samp_195	C5	3	003ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	22.4843	4.204113	0.999999978484374
+ID18	samp_189	C5	40	040ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	116.4079	28.43165	0.9999999996092388
+ID18	samp_184	C5	10	010ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	49.437	9.809039	0.9999999981688448
+ID18	samp_187	C5	100	100ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	130.4346	38.16845	0.9999999998805814
+ID18	samp_197	C5	3	003ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	24.2569	4.57047	0.9999999515457364
+ID18	samp_188	C5	75	075ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	116.5831	33.04456	0.9999999997380524
+ID18	samp_183	C5	20	020ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	72.379	15.75366	0.9999999981111324
+ID18	samp_191	C5	10	010ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	72.8415	13.41894	0.9999999981769409
+ID18	samp_185	C5	5	005ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	31.5932	6.383194	0.9999999797854054
+ID18	samp_196	C5	3	003ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	22.679	4.116975	0.9999999539995762
+ID18	samp_193	C5	3	003ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	24.471	4.693733	0.9999999737671718
+ID18	samp_198	C5	3	003ng	upper_gi	Upper GI	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	upper_gi	TRUE	TRUE	30.1396	5.548428	0.9999999910097106
+ID16	samp_82	C2	5	005ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	69.8609	7.147771	0.9999997243620012
+ID16	samp_55	C2	40	040ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	192.8925	38.91204	0.9999999780662971
+ID16	samp_78	C2	75	075ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	212.908	58.95966	0.9999999967074396
+ID16	samp_75	C2	3	003ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	98.9299	10.14721	0.9999998234488278
+ID16	samp_72	C2	20	020ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	180.0815	28.59635	0.9999999861045684
+ID16	samp_79	C2	40	040ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	217.4166	47.13568	0.9999999938591384
+ID16	samp_69	C2	100	100ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	203.4679	56.5669	0.99999998817756
+ID16	samp_80	C2	20	020ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	194.262	32.737	0.9999999955771718
+ID16	samp_56	C2	20	020ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	139.2008	18.47005	0.999999978738942
+ID16	samp_97	C2	10	010ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	135.5773	17.89673	0.999999976238213
+ID16	samp_99	C2	3	003ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	35.4634	3.85146	0.9999989229319572
+ID16	samp_73	C2	10	010ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	115.3879	13.77131	0.9999999261704738
+ID16	samp_85	C2	100	100ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	194.5889	62.26263	0.9999999954998622
+ID16	samp_53	C2	100	100ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	207.3341	56.80047	0.9999999968626446
+ID16	samp_67	C2	3	003ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	67.3487	6.077435	0.9999996617307058
+ID16	samp_89	C2	10	010ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	135.9107	17.20762	0.9999999555578702
+ID16	samp_94	C2	75	075ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	207.5631	54.60706	0.999999993273198
+ID16	samp_83	C2	3	003ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	38.8665	3.845711	0.9999995734628516
+ID16	samp_70	C2	75	075ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	186.5632	56.79459	0.9999999902247314
+ID16	samp_90	C2	5	005ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	61.1625	6.33331	0.9999998629231616
+ID16	samp_61	C2	100	100ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	219.8279	56.24939	0.999999993928126
+ID16	samp_91	C2	3	003ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	56.8101	5.960398	0.9999997702216976
+ID16	samp_88	C2	20	020ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	193.3591	29.51307	0.9999999842501892
+ID16	samp_77	C2	100	100ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	201.0214	58.37338	0.9999999902961844
+ID16	samp_81	C2	10	010ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	153.1671	20.63428	0.9999999743731603
+ID16	samp_62	C2	75	075ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	187.8695	48.23964	0.999999986477906
+ID16	samp_63	C2	40	040ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	203.155	41.35588	0.9999999938096046
+ID16	samp_95	C2	40	040ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	227.1224	50.56342	0.9999999933522004
+ID16	samp_98	C2	5	005ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	72.7204	7.652026	0.99999984243576
+ID16	samp_66	C2	5	005ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	84.3744	9.254527	0.9999998964181132
+ID16	samp_64	C2	20	020ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	207.9984	28.97832	0.9999999947877004
+ID16	samp_96	C2	20	020ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	197.996	28.21775	0.9999999930921868
+ID16	samp_59	C2	3	003ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	60.78	5.911492	0.99999979465668
+ID16	samp_65	C2	10	010ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	145.767	19.63575	0.9999999510062888
+ID16	samp_71	C2	40	040ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	226.1947	50.4909	0.999999994765354
+ID16	samp_87	C2	40	040ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	201.276	43.12522	0.9999999856126522
+ID16	samp_57	C2	10	010ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	108.7544	12.41782	0.99999988193991
+ID16	samp_74	C2	5	005ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	101.1577	11.13019	0.9999999130773508
+ID16	samp_86	C2	75	075ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	208.2878	42.082	0.9999999890765836
+ID16	samp_58	C2	5	005ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	91.5486	9.899454	0.999999883761713
+ID16	samp_54	C2	75	075ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	198.9367	42.77774	0.9999999955572286
+ID16	samp_93	C2	100	100ng	lung	Lung	Cancer Signal Detected	TRUE	Cancer Signal Detected	TRUE	lung	TRUE	TRUE	220.6758	55.31962	0.9999999960584752
+NA	samp_48	NC1	20	020ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	215.9159	0.1336894	0.45070128826035727
+NA	samp_68	NC2	100	100ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	220.9317	0.133908	0.759631590755024
+NA	samp_155	NC3	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	77.4707	0.05510767	0.45304990672862067
+NA	samp_101	NC2	10	010ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	75.8626	0.0400805	0.6869548205461025
+NA	samp_8	NC1	100	100ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	269.2919	0.2126536	0.2963865100346206
+NA	samp_136	NC3	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	265.0303	0.2131888	0.00701231788522016
+NA	samp_157	NC3	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	68.0082	0.05258242	0.5594310934960098
+NA	samp_221	NC5	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	56.8225	0.05664478	0.8597273456006156
+NA	samp_24	NC1	20	020ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	177.0599	0.10501	0.37386633942386993
+NA	samp_40	NC1	20	020ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	184.5265	0.115032	0.7100140068382448
+NA	samp_159	NC3	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	64.999	0.04753197	0.5185239264494093
+NA	samp_128	NC3	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	163.1201	0.1284481	0.05287317342310793
+NA	samp_152	NC3	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	244.3593	0.202845	0.00351434049886345
+NA	samp_199	NC4	75	075ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	180.712	0.1772696	0.22289585747803944
+NA	samp_206	NC4	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	44.5676	0.03754291	0.6513715707499865
+NA	samp_205	NC4	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	25.1151	0.02131051	0.6957949119980787
+NA	samp_100	NC2	20	020ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	124.5044	0.06813305	0.7191347915638191
+NA	samp_92	NC2	20	020ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	135.3892	0.06690171	0.6312316617039241
+NA	samp_120	NC3	75	075ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	296.1477	0.2756268	0.04189174814670859
+NA	samp_202	NC4	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	116.9478	0.1083494	0.0943430443474449
+NA	samp_204	NC4	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	152.928	0.1411694	0.14544737251745787
+NA	samp_219	NC5	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	28.0348	0.02825808	0.8750344381951211
+NA	samp_201	NC4	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	139.6789	0.1309084	0.16051200983978453
+NA	samp_154	NC3	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	41.6778	0.031028	0.752781081673379
+NA	samp_217	NC5	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	171.8155	0.1938348	0.39818967526379223
+NA	samp_144	NC3	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	208.4772	0.2032969	0.03643842283984055
+NA	samp_222	NC5	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	59.3198	0.05849	0.7114701612932648
+NA	samp_209	NC4	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	49.8095	0.03475463	0.7805221393221655
+NA	samp_104	NC2	10	010ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	72.2363	0.03581109	0.7373625797770216
+NA	samp_16	NC1	100	100ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	269.6033	0.2186991	0.5994527295459858
+NA	samp_214	NC5	75	075ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	228.0082	0.3131146	0.06656028353126187
+NA	samp_160	NC3	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	51.0114	0.03842124	0.653133788155742
+NA	samp_50	NC1	10	010ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	105.0524	0.06301401	0.4837572630077608
+NA	samp_213	NC5	75	075ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	183.7576	0.2536548	0.0664657113704138
+NA	samp_215	NC5	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	179.7293	0.1918769	0.08192987771450266
+NA	samp_220	NC5	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	52.6234	0.04865777	0.6380835205006384
+NA	samp_226	NC5	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	22.0747	0.02228919	0.7658892114580615
+NA	samp_212	NC4	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	23.7116	0.01977737	0.622157765191782
+NA	samp_156	NC3	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	58.4594	0.04344403	0.5702013892568303
+NA	samp_225	NC5	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	49.8057	0.04561052	0.88738313899921
+NA	samp_218	NC5	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	161.9702	0.1828705	0.7767371522054258
+NA	samp_112	NC3	75	075ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	235.9041	0.2254137	0.00726595016740383
+NA	samp_52	NC1	10	010ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	152.6427	0.08597997	0.7588057352213112
+NA	samp_102	NC2	10	010ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	69.9626	0.03621105	0.8074506888842394
+NA	samp_200	NC4	75	075ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	192.0755	0.2099223	0.1322494261781323
+NA	samp_216	NC5	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	121.9222	0.1316412	0.06042496477622583
+NA	samp_210	NC4	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	21.0877	0.01825748	0.7490821878021896
+NA	samp_51	NC1	10	010ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	98.8373	0.05839595	0.7417771778785818
+NA	samp_203	NC4	40	040ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	121.0546	0.0970872	0.29456182320155977
+NA	samp_158	NC3	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	58.9936	0.04219759	0.5972994667644596
+NA	samp_32	NC1	20	020ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	165.2496	0.1106037	0.3755991698860923
+NA	samp_103	NC2	10	010ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	62.5726	0.03276656	0.8968783026701174
+NA	samp_84	NC2	20	020ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	190.58	0.09746029	0.4353612569660229
+NA	samp_207	NC4	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	55.8803	0.04459057	0.7201556072529783
+NA	samp_211	NC4	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	22.808	0.01941061	0.8116718743460413
+NA	samp_153	NC3	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	44.2511	0.03525641	0.45139460359139594
+NA	samp_223	NC5	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	25.0669	0.02504377	0.8152867410872693
+NA	samp_49	NC1	10	010ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	98.5961	0.06040397	0.5425827635020383
+NA	samp_224	NC5	3	003ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	22.5925	0.02124066	0.7481694112985857
+NA	samp_208	NC4	5	005ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	48.5808	0.03967185	0.473201733360881
+NA	samp_76	NC2	20	020ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	95.4509	0.04937727	0.6577072669803614
+NA	samp_60	NC2	100	100ng	non_cancer	Non-Cancer	No Cancer Signal Detected	FALSE	No Cancer Signal Detected	TRUE	non_cancer	NA	NA	294.8871	0.1979381	0.5198086834227671

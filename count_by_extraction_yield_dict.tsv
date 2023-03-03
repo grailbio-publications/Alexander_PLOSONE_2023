@@ -1,0 +1,6 @@
+variable_name	variable_label
+bin_min	minimum extraction yield for bin
+bin_max	maximum extraction yield for bin
+bin_yield	extraction yield for bin = (min + max)/2
+yield_bin	cfDNA extraction quantity bin
+count	number of samples in bin

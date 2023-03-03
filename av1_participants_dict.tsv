@@ -1,0 +1,11 @@
+variable_name	variable_label
+sample_id	Participant sample identifier
+Study	Study sample participated in - one of IT, LOD, LOD_EARLY (stage I and II), RR1
+cancer_type	Cancer Types plus non_cancer
+clinical_stage	Clinical stage reported by enrolling site: I, II, III, IV, and Non-informative
+histo_group	Histologic type
+days_between_diagnosis_and_blood_draw	Number of days between diagnosis and blood draw
+race	Participant race
+age	Participant age at enrollment
+sex	Participant sex: Female or Male
+smoking_status	Participant smoking status

@@ -1,0 +1,5 @@
+variable_name	variable_label
+sample_id	Participant sample identifier
+cancer_type	Cancer Types
+clinical_stage	Stage: I, II, III, IV
+fold_dilution	Dilution fold: numeric

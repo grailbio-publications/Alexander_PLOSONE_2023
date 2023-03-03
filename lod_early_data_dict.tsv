@@ -1,0 +1,13 @@
+variable_name	variable_label
+participant_id	Participant sample identifier
+cancer_type	Cancer Types
+clinical_stage	Clinical stage reported by enrolling site: I, II, III, IV, and Non-informative
+diluted_sample	One of baseline or dilution
+cancer_is_detected	Cancer is detected: T/F
+total_input_amount_ng	Total input amount (ng)
+cancer_input_amount_ng	Cancer input amount (ng)
+dilution_fold	Total input/Cancer input
+analysis_evaluability_av	AV evaluability: T/F
+challenge_sample	Challenge samples: T/F
+cancer_score	Cancer score: numeric
+analysis_abnormal_coverage_cpg_mean	Coverage for abnormal targets

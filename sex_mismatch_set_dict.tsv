@@ -1,0 +1,6 @@
+variable_name	variable_label
+SampleID	C/NC sample identifier
+Study	Study sample participated in - one of IT, LOD, LOD_EARLY (stage I and II), RR1
+sex	Participant sex: Female or Male
+analysis_x_norm_count	Normalized X Chromosome Read Count
+analysis_y_norm_count	Normalized Y Chromosome Read Count

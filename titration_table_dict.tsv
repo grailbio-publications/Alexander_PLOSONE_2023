@@ -1,0 +1,4 @@
+variable_name	variable_label
+analysis_sample_id	Identifier for processed samples
+min_titration	Minimum titration: numeric
+stage	Stage: I, II, III, IV

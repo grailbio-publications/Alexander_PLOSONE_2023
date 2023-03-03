@@ -1,0 +1,23 @@
+variable_name	variable_label
+sample_id	Participant sample identifier
+analysis_sample_id	Identifier for processed samples
+exclude	exclusion flag
+Run	Run identifier
+cancer_is_expected	Cancer expected?: T/F
+cancer_type	Cancer Types
+cancer_type_clean	Cancer Type is cancer is expected, or Non-Cancer
+SampleType	Cancer Types - only differs from cancer_type for Lung
+cancer_type_expected	Cancer Types or non_cancer
+mixed_genome_sample	Is sample a mixture?: T/F
+source_tumor_fraction	Source tumor fraction
+tumor_fraction_expected	Tumor fraction expected
+mixture_fraction	Mixture fraction
+TFLevel	Tumor Fraction Level
+targeted_vaf	Targeted vaf
+analysis_evaluability_av	AV evaluability: T/F
+cancer_is_detected	Cancer is detected: T/F
+cancer_detection_is_correct	Cancer detection is correct: T/F
+cancer_type_prediction_is_correct	Predicted cancer type is correct: T/F
+analysis_on_binary_target_coverage_stats_mean	Coverage for binary targets
+analysis_abnormal_coverage_cpg_mean	Coverage for abnormal targets
+binary_classification_score	Binary classification score: numeric

@@ -1,0 +1,13 @@
+variable_name	variable_label
+sample_id	Participant sample identifier
+run	run id
+exclude	exclusion flag
+analysis_evaluability_av	AV evaluability: T/F
+response	always-on/responsive
+cancer_type_expected	Cancer Types or non_cancer
+cancer_is_detected	Label:No Cancer Signal Detected/Cancer Signal Detected
+cancer_detection_is_correct	Cancer detection is correct: T/F
+cancer_type_predicted	Predicted cancer type
+cancer_type_prediction_is_correct	Predicted cancer type is correct: T/F
+tm_extraction_quant_concentration	cfDNA extraction quantity
+binary_classification_score	Binary classification score: numeric
